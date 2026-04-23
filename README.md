@@ -1,3 +1,4 @@
+ HEAD
 # AWS Misconfiguration Scanner
 
 A Python security tool that automatically scans an AWS account
@@ -37,5 +38,4 @@ Cloud Security · CSPM concepts · Boto3 API
 Alaba Olayemi — Cloud Security Engineer (in progress)
 https://github.com/AlabaOlayemi/AWS-Misconfiguration-Scanner
 
-
-
+ be459056717337ed684fa8b4e39b676abb9b51e9
