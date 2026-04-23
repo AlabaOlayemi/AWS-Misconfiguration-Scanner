@@ -1,0 +1,16 @@
+# AWS credentials — NEVER upload these
+*.csv
+.aws/
+credentials
+
+# Python junk files
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
