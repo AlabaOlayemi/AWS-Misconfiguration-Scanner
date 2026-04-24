@@ -3,7 +3,7 @@
 
 A Python security tool that automatically scans an AWS account
 for common misconfigurations and produces a prioritised findings
-report — helping teams catch vulnerabilities before attackers do.
+report and helping teams catch vulnerabilities before attackers do.
 
 ## What it detects
 | Finding | Severity | Description |
